@@ -1,0 +1,63 @@
+Hotel Booking Demand – Data Cleaning Project
+Project Overview
+
+This project focuses on data cleaning and preprocessing of the Hotel Booking Demand dataset from Kaggle.
+The goal was to explore, understand, and prepare the raw data for future analysis or machine learning by removing unnecessary noise and making it cleaner, more readable, and structured.
+
+This was my first complete data cleaning project, built entirely with Python and Pandas.
+
+🎯 Objectives
+
+Understand the dataset structure and column meanings.
+
+Clean and rename poorly formatted or unclear columns.
+
+Remove redundant or unnecessary columns to simplify the dataset.
+
+Handle missing values and ensure data consistency.
+
+Prepare the data for further analysis or visualization.
+
+🧰 Tools & Libraries Used
+
+Python
+
+Pandas
+
+NumPy
+
+VS Code
+
+🔍 Key Learnings & Insights
+
+Many column names were long or unclear — renaming them made the dataset more readable and professional.
+
+Several columns carried similar or unnecessary information; reducing them improved dataset clarity.
+
+Data cleaning made me realize how messy real-world data is, and how crucial preprocessing is before any ML model or visualization.
+
+The dataset gave insights into hotel performance — both city and resort hotels were operating normally, but data cleaning revealed patterns that could later be explored for booking trends, cancellations, and customer behavior.
+
+📈 Next Steps
+
+Perform EDA (Exploratory Data Analysis) to visualize patterns like booking cancellations, seasonality, and average stay duration.
+
+Explore feature engineering to make this dataset ML-ready.
+
+Continue improving data documentation and analysis reporting (especially writing insights clearly).
+
+📂 Dataset Source
+
+Hotel Booking Demand – Kaggle
+
+✍️ Author
+
+Prince
+Python Developer (Beginner, Data Science Learner)
+"Learning through action — one dataset at a time."
+
+💬 Final Note
+
+This was my first practical project in data cleaning, and it taught me how small details — like naming columns, removing redundancy, and structuring information — can completely change how readable and usable a dataset becomes.
+
+The journey has just started — but every cleaned dataset is one step closer to mastery.
